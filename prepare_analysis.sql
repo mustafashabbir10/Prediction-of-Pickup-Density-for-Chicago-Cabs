@@ -2,8 +2,8 @@
 
 /*In the following query I calculated the weekly total (SUM) taxi fares for each Taxi ID for each week in the data. The whole dataset was grouped by Taxi_ID and week of the date. Apart from trip seconds, trip miles and trip total median values were selected for all other parameters. I also took care of the outliers in the query. I selected the following constraints as mentioned above: -
 •	The ratio of trip total and trip miles should be greater than two, for instance if trip distance is 2 miles, the charge should be at least $4. Also, to prevent high outliers the same ratio should be less than 10.
-•	With the city traffic and speed restrictions, speed i.e. ratio of trip miles and trip hour was kept less than 70. This enforces another restriction that trip seconds should have non-zero values. */
-•	The minimum fare amount for any trip in Chicago is $2.25, hence all the fare values should have non-zero values. 
+•	With the city traffic and speed restrictions, speed i.e. ratio of trip miles and trip hour was kept less than 70. This enforces another restriction that trip seconds should have non-zero values. 
+•	The minimum fare amount for any trip in Chicago is $2.25, hence all the fare values should have non-zero values. */
 
 /*TABLE-1*/
 SELECT
