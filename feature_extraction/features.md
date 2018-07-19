@@ -123,7 +123,7 @@ Independent Cyclic Features: -
 
 Similar procedure was performed to evaluate monthfloat and yearfloat. But to remove cyclicity the binned "hourfloat " variable converted to a sine and cosine version so that time nicely 'loops' rather than going saw-like when it traverses midnight. As depicted in the figure, this transformation doesn't have any magic powers, but it can make it easier for a model to find the right patterns.
 
-![png](Images/image_1.png)
+![png](Images/image_1.PNG)
 
 * hourfloat_sin: -Binned "hourfloat" variable converted to a cosine version. "hourfloat_sin" = cos⁡(hourfloat×2×π). For 24 bins per day, 14:20:00 would translate to, cos⁡(0.597×2×π)= 0.99.
 * hourfloat_cos: -Binned "hourfloat" variable converted to a cosine version. "hourfloat_cos" = sin⁡(hourfloat×2×π). For 24 bins per day, 14:20:00 would translate to, sin⁡(0.597×2×π)= 0.05.
