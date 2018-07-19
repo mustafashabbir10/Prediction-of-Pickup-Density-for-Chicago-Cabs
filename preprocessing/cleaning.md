@@ -1,6 +1,6 @@
 ## [Overview](../index.md)
 
-## [Data Exploration](../data_exploration/exploration.md)
+## [Data Exploration](../Data_exploration/exploration.md)
 
 # Preprocessing
 
