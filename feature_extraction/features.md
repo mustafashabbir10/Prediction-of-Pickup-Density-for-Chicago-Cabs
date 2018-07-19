@@ -4,7 +4,7 @@
 
 ## [Preprocessing](../preprocessing/cleaning.md)
 
-# Feature Creation
+# Feature Extraction
 
 ## [Model Building](../model_building/model.md)
 
