@@ -1,6 +1,6 @@
 # Overview
 
-## [Data Exploration](data_exploration/exploration.md)
+## [Data Exploration](Data_exploration/exploration.md)
 
 ## [Preprocessing](preprocessing/cleaning.md)
 
