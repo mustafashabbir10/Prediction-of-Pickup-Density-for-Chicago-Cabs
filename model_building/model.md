@@ -247,7 +247,7 @@ sorted_features
 pd.DataFrame(sorted_features)[[0,1]].head(10).plot(kind='barh', x=0, y=1,legend=False, figsize=(8, 8));
 ```
 
-![png](images/chicago_2.PNG)
+![png](Images/Image_2.PNG)
 
 #### RESULTS
 
