@@ -4,7 +4,7 @@
 
 # Preprocessing
 
-## [Feature Creation](../feature_creation/features.md)
+## [Feature Extraction](../feature_extraction/features.md)
 
 ## [Model Building](../model_building/model.md)
 
