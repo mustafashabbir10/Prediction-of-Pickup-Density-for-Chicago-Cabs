@@ -1,4 +1,14 @@
-# Chicago-Cab-Data
+# Overview
+
+## [Data Exploration](Data_exploration/exploration.md)
+
+## [Preprocessing](preprocessing/cleaning.md)
+
+## [Feature Extraction](feature_extraction/features.md)
+
+## [Model Building](model_building/model.md)
+
+## [Conclusion](conclusion/conclusion.md)
 
 ### Motivation
 
