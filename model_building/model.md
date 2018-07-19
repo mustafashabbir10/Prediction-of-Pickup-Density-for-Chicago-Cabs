@@ -184,7 +184,7 @@ plt.figure();
 csv[[0,1]].tail(10).plot(kind='barh', x=0, y=1,legend=False, figsize=(8, 8));
 ```
 
-![png](Images/Image_1.png)
+![png](Images/Image_1.PNG)
 
 #### `LightGBM`
 
